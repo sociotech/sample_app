@@ -15,6 +15,7 @@
 /tmp
 doc/
 *.swp
+*.swo
 *~
 .project
 bundler_stubs/
